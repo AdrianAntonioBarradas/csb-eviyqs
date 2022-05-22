@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://adrianantoniobarradas.github.io/csb-eviyqs/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://adrianantoniobarradas.github.io/csb-eviyqs/static/js/main.c6e73f69.chunk.js",
+    "main.js.map": "https://adrianantoniobarradas.github.io/csb-eviyqs/static/js/main.c6e73f69.chunk.js.map",
+    "runtime-main.js": "https://adrianantoniobarradas.github.io/csb-eviyqs/static/js/runtime-main.e2dec00b.js",
+    "runtime-main.js.map": "https://adrianantoniobarradas.github.io/csb-eviyqs/static/js/runtime-main.e2dec00b.js.map",
+    "static/js/2.68d0f2e8.chunk.js": "https://adrianantoniobarradas.github.io/csb-eviyqs/static/js/2.68d0f2e8.chunk.js",
+    "static/js/2.68d0f2e8.chunk.js.map": "https://adrianantoniobarradas.github.io/csb-eviyqs/static/js/2.68d0f2e8.chunk.js.map",
+    "index.html": "https://adrianantoniobarradas.github.io/csb-eviyqs/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://adrianantoniobarradas.github.io/csb-eviyqs/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.68d0f2e8.chunk.js.LICENSE.txt": "https://adrianantoniobarradas.github.io/csb-eviyqs/static/js/2.68d0f2e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2dec00b.js",
+    "static/js/2.68d0f2e8.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c6e73f69.chunk.js"
+  ]
+}
